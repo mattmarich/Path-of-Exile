@@ -4,7 +4,7 @@ The included batch script is for cloning your PoE folder to RAMDisk and launchin
 
 ![alt text](http://matthewmarich.com/images/ramdisk.png "Example Ramdisk Config")
 
-Does the following steps:
+Launch ramdisk.bat and it does the following steps:
 * Launches the client.exe to check for updates (close the update window of PoE once update check complete)
 * Clears out RAMDisk PoE Folder if exists
 * Copies PoE application folder to RAMDisk
